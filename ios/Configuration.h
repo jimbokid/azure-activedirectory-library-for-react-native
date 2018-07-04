@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "ADAL.h"
+#import <ADAL/ADAL.h>
 
 @interface Configuration : NSObject {
     NSString* _authority;

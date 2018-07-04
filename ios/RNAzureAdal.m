@@ -3,7 +3,7 @@
 #import "Configuration.h"
 #import "AdalUtils.h"
 #import "UserInfoSerialization.h"
-#import "ADAL.h"
+#import <ADAL/ADAL.h>
 
 @implementation RNAzureAdal
 

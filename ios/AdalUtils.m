@@ -6,7 +6,7 @@
 //
 
 #import "AdalUtils.h"
-#import "ADAL.h"
+#import <ADAL/ADAL.h>
 
 @implementation AdalUtils
 /**
