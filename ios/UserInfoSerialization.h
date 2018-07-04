@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <ADAL/ADAL.h>
+#import "ADAL.h"
 
 @interface UserInfoSerialization : NSObject
 
